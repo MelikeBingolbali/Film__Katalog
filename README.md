@@ -1,17 +1,11 @@
-# film_katalog
+# Mini Katalog Uygulaması
 
-A new Flutter project.
+**Kısa Açıklama:** Flutter kullanarak geliştirilmiş basit bir katalog uygulaması.  
 
-## Getting Started
+ 
 
-This project is a starting point for a Flutter application.
+**Çalıştırma Adımları:**
+1. Flutter SDK kurulu olmalı
+2. Terminalde `flutter pub get` çalıştır
+3. `flutter run` ile uygulamayı başlat
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
