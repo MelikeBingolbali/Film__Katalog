@@ -9,3 +9,4 @@
 2. Terminalde `flutter pub get` çalıştır
 3. `flutter run` ile uygulamayı başlat
 
+Fluter sürüm :  3.41.6 
