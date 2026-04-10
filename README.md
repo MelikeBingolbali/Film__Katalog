@@ -50,9 +50,6 @@ Uygulama, Flutter’ın temel bileşenlerini (widget yapısı, state yönetimi, 
 ## Flutter Sürümü
 Flutter 3.41.6
 
----
 
 
-## Not
-Veriler statik olarak oluşturulmuş olup herhangi bir API kullanılmamaktadır.
 
